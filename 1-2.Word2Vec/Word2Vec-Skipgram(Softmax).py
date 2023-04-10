@@ -1,5 +1,9 @@
-# %%
-# code by Tae Hwan Jung @graykode
+# -*- coding: utf-8 -*-
+# @Time         : 2023/4/10 16:25
+# @Author       : Yupeng Ji
+# @File         : Word2Vec-Skipgram(Softmax).py
+# @Description  : 动手实现Word2Vec
+
 import numpy as np
 import torch
 import torch.nn as nn

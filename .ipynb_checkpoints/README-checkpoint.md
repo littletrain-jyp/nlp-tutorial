@@ -82,6 +82,3 @@
 - Tae Hwan Jung(Jeff Jung) @graykode
 - Author Email : nlkey2022@gmail.com
 - Acknowledgements to [mojitok](http://mojitok.com/) as NLP Research Internship.
-
-## 补充资料说明：
-- [A Review of the Neural History of Natural Language Processing](https://www.ruder.io/a-review-of-the-recent-history-of-nlp/)
