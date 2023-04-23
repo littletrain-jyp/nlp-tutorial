@@ -42,10 +42,10 @@ if __name__ == '__main__':
 
     sentences = ['我 喜欢 打球', '我 研究 自然语言处理', '我 在 吃饭']
     word_list = ' '.join(sentences).split()
-    word_set = list(set(word_list))
+    word_list = list(set(word_list))
 
-    word2id = {w: i for i, w in enumerate(word_set)}
-    id2word = {i: w for i, w in enumerate(word_set)}
+    word2id = {w: i for i, w in enumerate(word_list)}
+    id2word = {i: w for i, w in enumerate(word_list)}
 
     print(sentences)
 
